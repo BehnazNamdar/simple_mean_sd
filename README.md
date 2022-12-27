@@ -3,6 +3,7 @@ This function should take two inputs, return two values (mean, sd) and display a
 
 
 Write a function named “simple_mean_sd()”
+
 • The function should take two inputs:
 1) a string containing the subject’s code
 2) a vector of 5 scores
